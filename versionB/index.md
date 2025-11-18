@@ -16,19 +16,19 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_clip_rank/gpt_clip_rank_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_with_new_audio_target" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_beamsearch/gpt_transformer_beamsearch_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_with_new_audio_target" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_beamsearch_dp/gpt_transformer_beamsearch_dp_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_motorvehicleroad_25261/video_with_new_audio_target" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -41,7 +41,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/TeaserDemo/versionA/2n7xgho1gIo/gpt_transformer_nn_smooth_dp/gpt_transformer_nn_smooth_dp_demo.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_typing_27039/video_with_new_audio_target" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
