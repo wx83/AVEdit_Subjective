@@ -22,7 +22,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/-bfIrdu5yEo/video_audio_target.mp4"type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/-bfIrdu5yEo/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
