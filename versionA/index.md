@@ -58,6 +58,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
       </video>
     </td>
   </tr>
+</table>
 
 # Section 2:
 <table>
@@ -111,8 +112,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
       </video>
     </td>
   </tr>
+</table>
 
 # Section 3:
+Target Object is 
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1</strong></td>
@@ -231,7 +234,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
       </video>
     </td>
   </tr>
-
   <!-- New row for Sample 7 -->
   <tr>
     <td style="text-align: center;" colspan="3"><strong>Sample 7</strong></td>
