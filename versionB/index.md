@@ -9,9 +9,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 # Section 1:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: guitar </strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object: plow</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object: person</strong></td>
   </tr>
   <tr>
     <td>
@@ -34,8 +34,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: man</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object: mop</strong></td>
     <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
@@ -63,9 +63,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 # Section 2:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: microphone</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object: pink toy microwave</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object: Mercedes-Benz car</strong></td>
   </tr>
   <tr>
     <td>
@@ -88,9 +88,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: wooden table</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object: train</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object: keyboard</strong></td>
   </tr>
   <tr>
     <td>
@@ -118,9 +118,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 Target Object is 
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: alarm clock</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object: alarm clock</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object: alarm clock</strong></td>
   </tr>
   <tr>
     <td>
@@ -143,9 +143,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: alarm clock </strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object: alarm clock </strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object: alarm clock</strong></td>
   </tr>
   <tr>
     <td>
@@ -168,8 +168,8 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object: alarm clock </strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object: alarm clock</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -190,9 +190,9 @@ Target Object is
 # Section 4:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: plow</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object: plow</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object: plow</strong></td>
   </tr>
   <tr>
     <td>
@@ -215,9 +215,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: plow</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object: plow</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object: plow</strong></td>
   </tr>
   <tr>
     <td>
@@ -240,8 +240,8 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object: plow</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object: plow</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -262,9 +262,9 @@ Target Object is
 # Section 5
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: airplane</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object: airplane</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object: airplane</strong></td>
   </tr>
   <tr>
     <td>
@@ -287,9 +287,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: airplane</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object: airplane</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object: airplane</strong></td>
   </tr>
   <tr>
     <td>
@@ -312,8 +312,8 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object: airplane</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object: airplane</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;">
@@ -334,9 +334,9 @@ Target Object is
 # Section 6:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: bulldozer</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object: bulldozer</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object: bulldozer</strong></td>
   </tr>
   <tr>
     <td>
@@ -359,9 +359,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: bulldozer</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object: bulldozer</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object: bulldozer</strong></td>
   </tr>
   <tr>
     <td>
@@ -384,8 +384,8 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
-    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object: bulldozer</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object: bulldozer</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;">
