@@ -170,17 +170,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7: Target Object: </strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
   </tr>
   <tr>
-    <td colspan="3" style="text-align: center;">
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_balanced_train_-z47zN0YyE4_420.000/vace_audit/audioset_balanced_train_-z47zN0YyE4_420.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-    <td colspan="3" style="text-align: center;">
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_balanced_train_-z47zN0YyE4_420.000/videoinpainter_audit/audioset_balanced_train_-z47zN0YyE4_420.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
@@ -236,7 +236,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/videoinpainter_audit/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/vace_zeus/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -248,13 +248,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/videoinpainter_zeus/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/videoinpainter_audit/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/vace_zeus/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/videoinpainter_zeus/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -303,31 +303,31 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/vace_audit/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_explosion_2210/vace_audit/kling_explosion_2210_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_explosion_2210/videoinpainter_zeus/kling_explosion_2210_combined.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7: Target Object:</strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8: Target Object:</strong></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align: center;">
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_explosion_2210/vace_zeus/kling_explosion_2210_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-    <td colspan="3" style="text-align: center;">
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_explosion_2210/videoinpainter_audit/kling_explosion_2210_combined.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="text-align: center;">
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_explosion_2210/videoinpainter_zeus/kling_explosion_2210_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -345,19 +345,19 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/videoinpainter_zeus/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/lgvi_audit/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/videoinpainter_audit/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/lgvi_zeus/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/vace_zeus/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/mcfm/kling_motorvehicleroad_20512/video_audio_generated.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -370,37 +370,37 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/vace_audit/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/save/video_audio_generated.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/mcfm/kling_motorvehicleroad_20512/video_audio_generated.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/vace_audit/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="320" height="240" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/vace_zeus/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7: Target Object:</strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
   </tr>
   <tr>
-    <td colspan="3" style="text-align: center;">
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/lgvi_zeus/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/videoinpainter_audit/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-    <td colspan="3" style="text-align: center;">
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/lgvi_audit/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/kling_motorvehicleroad_20512/videoinpainter_zeus/kling_motorvehicleroad_20512_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
