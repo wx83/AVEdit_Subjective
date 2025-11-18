@@ -1,5 +1,5 @@
 # Introduction
-In this study, we are interested in evaluating both our synthetic dataset generation pipeline and the SAVE editor for removing objects from audio and video. You will be shown a series of sounding videos and asked to rate them based on how well the specified target object has been removed.
+In this study, we are interested in evaluating both our synthetic dataset generation pipeline and the SAVE editor for removing objects from audio and video. You will be shown a series of sounding videos and asked to rate them based on how well the specified target object has been removed. We leave target object name on the top. 
 
 Link to the survey:
 https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g0HiZp0f7hA/viewform?usp=publish-editor
@@ -9,9 +9,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 # Section 1:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -34,14 +34,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -63,19 +58,14 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
       </video>
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
 </table>
 
 # Section 2:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -98,14 +88,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -127,20 +112,17 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
       </video>
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
 </table>
 
 # Section 3:
-Target Object is 
+
+**Target Object is**
+
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -163,14 +145,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -181,7 +158,7 @@ Target Object is
     </td>
     <td>
       <video width="320" height="240" controls>
-        <source src="AVEdit_Subjective/versionA/edit_result/audioset_balanced_train_-z47zN0YyE4_420.000/save/video_audio_generated.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_balanced_train_-z47zN0YyE4_420.000/save/video_audio_generated.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -193,18 +170,13 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7</strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8</strong></td>
+    <td style="text-align: center;" colspan="3"><strong>Sample 7: Target Object: </strong></td>
+    <td style="text-align: center;" colspan="3"><strong>Sample 8: Target Object:</strong></td>
   </tr>
   <tr>
     <td colspan="3" style="text-align: center;">
       <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/AVEdit_Subjective/versionA/edit_result/audioset_balanced_train_-z47zN0YyE4_420.000/vace_audit/audioset_balanced_train_-z47zN0YyE4_420.000_combined.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_balanced_train_-z47zN0YyE4_420.000/vace_audit/audioset_balanced_train_-z47zN0YyE4_420.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -215,18 +187,14 @@ Target Object is
       </video>
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
 </table>
 
 # Section 4:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -247,16 +215,11 @@ Target Object is
         Your browser does not support the video tag.
       </video>
     </td>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object: </strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -279,32 +242,22 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
+    <td style="text-align: center;"><strong>Sample 7: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 8: Target Object:</strong></td>
   </tr>
   <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7</strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8</strong></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align: center;">
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/videoinpainter_zeus/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-    <td colspan="3" style="text-align: center;">
+    <td style="text-align: center;">
       <video width="320" height="240" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/edit_result/audioset_eval_aXV-yaFmQNk_70.000/vace_zeus/audioset_eval_aXV-yaFmQNk_70.000_combined.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
   </tr>
 </table>
 
@@ -312,9 +265,9 @@ Target Object is
 # Section 5:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -337,9 +290,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -362,8 +315,8 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7</strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8</strong></td>
+    <td style="text-align: center;" colspan="3"><strong>Sample 7: Target Object:</strong></td>
+    <td style="text-align: center;" colspan="3"><strong>Sample 8: Target Object:</strong></td>
   </tr>
   <tr>
     <td colspan="3" style="text-align: center;">
@@ -379,19 +332,15 @@ Target Object is
       </video>
     </td>
   </tr>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
 </table>
 
 
 # Section 6:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1</strong></td>
-    <td style="text-align: center;"><strong>Sample 2</strong></td>
-    <td style="text-align: center;"><strong>Sample 3</strong></td>
+    <td style="text-align: center;"><strong>Sample 1: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 2: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 3: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -414,14 +363,9 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4</strong></td>
-    <td style="text-align: center;"><strong>Sample 5</strong></td>
-    <td style="text-align: center;"><strong>Sample 6</strong></td>
+    <td style="text-align: center;"><strong>Sample 4: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 5: Target Object:</strong></td>
+    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
   </tr>
   <tr>
     <td>
@@ -444,13 +388,8 @@ Target Object is
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-  </tr>
-  <tr>
-    <td style="text-align: center;" colspan="3"><strong>Sample 7</strong></td>
-    <td style="text-align: center;" colspan="3"><strong>Sample 8</strong></td>
+    <td style="text-align: center;" colspan="3"><strong>Sample 7: Target Object:</strong></td>
+    <td style="text-align: center;" colspan="3"><strong>Sample 8: Target Object:</strong></td>
   </tr>
   <tr>
     <td colspan="3" style="text-align: center;">
@@ -465,9 +404,5 @@ Target Object is
         Your browser does not support the video tag.
       </video>
     </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
-    <td style="text-align: center;"><em>Target: [object]</em></td>
   </tr>
 </table>
