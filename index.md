@@ -1,5 +1,5 @@
 
 # Introduction
-Documentary Teaser Generation Subjective Test Page
+Audiovisual Editing Benchmark Dataset and Subjective Test
 - [Version A](./versionA/)
 - [Version B](./versionB/)
