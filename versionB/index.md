@@ -76,7 +76,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     <td style="text-align: center;"><strong>Sample 5 Source</strong></td>
     <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 5 Target<br/>Object: mop</strong></td>
     <td style="text-align: center; padding-left: 15px;"><strong>Sample 6 Source</strong></td>
-    <td style="text-align: center;"><strong>Sample 6 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center;"><strong>Sample 6 Target<br/>Object: pink toy microwave</strong></td>
   </tr>
   <tr>
     <td>
@@ -93,13 +93,13 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_Bkq1PAyGuZY_8.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_Bkq1PAyGuZY_8.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -112,7 +112,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
     <td style="text-align: center;"><strong>Sample 1 Source</strong></td>
     <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 1 Target<br/>Object: microphone</strong></td>
     <td style="text-align: center; padding-left: 15px;"><strong>Sample 2 Source</strong></td>
-    <td style="text-align: center;"><strong>Sample 2 Target<br/>Object: pink toy microwave</strong></td>
+    <td style="text-align: center;"><strong>Sample 2 Target<br/>Object: snowplow</strong></td>
   </tr>
   <tr>
     <td>
