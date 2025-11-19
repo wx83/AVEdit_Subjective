@@ -42,7 +42,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Sample 3 Source</strong></td>
-    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 3 Target<br/>Object: microphone</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 3 Target<br/>Object: man</strong></td>
     <td style="text-align: center; padding-left: 15px;"><strong>Sample 4 Source</strong></td>
     <td style="text-align: center;"><strong>Sample 4 Target<br/>Object: two-stroke engine</strong></td>
   </tr>
