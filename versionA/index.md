@@ -2,7 +2,7 @@
 In this study, we are interested in evaluating both our synthetic dataset generation pipeline and the SAVE editor for removing objects from audio and video. You will be shown a series of sounding videos and asked to rate them based on how well the specified target object has been removed. We leave target object name on the top. 
 
 Link to the survey:
-https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g0HiZp0f7hA/viewform?usp=publish-editor
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g0HiZp0f7hA/viewform?usp=publish-editor" target="_blank">Click here to open the survey</a>
 
 **Please select Version A at the top. Thanks!**
 
