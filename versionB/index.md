@@ -9,51 +9,97 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 # Section 1:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: guitar </strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object: plow</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object: person</strong></td>
+    <td style="text-align: center;"><strong>Sample 1 Source</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 1 Target<br/>Object: guitar</strong></td>
+    <td style="text-align: center; padding-left: 15px;"><strong>Sample 2 Source</strong></td>
+    <td style="text-align: center;"><strong>Sample 2 Target<br/>Object: plow</strong></td>
   </tr>
   <tr>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/-24qhP-qEQ0/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="border-right: 3px solid #ccc; padding-right: 15px;">
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/-24qhP-qEQ0/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+    <td style="padding-left: 15px;">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_3L8swdSZj5w_10.000/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_3L8swdSZj5w_10.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 3 Source</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 3 Target<br/>Object: person</strong></td>
+    <td style="text-align: center; padding-left: 15px;"><strong>Sample 4 Source</strong></td>
+    <td style="text-align: center;"><strong>Sample 4 Target<br/>Object: man</strong></td>
+  </tr>
+  <tr>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_7GvM1ZhcbdY_10.000/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="border-right: 3px solid #ccc; padding-right: 15px;">
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_7GvM1ZhcbdY_10.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object: man</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object: mop</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object:</strong></td>
-  </tr>
-  <tr>
+    <td style="padding-left: 15px;">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_98UFwLGP2dM_30.000/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_98UFwLGP2dM_30.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 5 Source</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 5 Target<br/>Object: mop</strong></td>
+    <td style="text-align: center; padding-left: 15px;"><strong>Sample 6 Source</strong></td>
+    <td style="text-align: center;"><strong>Sample 6 Target<br/>Object: [object]</strong></td>
+  </tr>
+  <tr>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_apkXWaneA9E_390.000/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="border-right: 3px solid #ccc; padding-right: 15px;">
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_apkXWaneA9E_390.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+    <td style="padding-left: 15px;">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_mechanisms_9204/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
     <td>
-      <video width="320" height="240" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_Bkq1PAyGuZY_8.000/video_audio_target.mp4" type="video/mp4">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_mechanisms_9204/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -63,50 +109,96 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 # Section 2:
 <table>
   <tr>
-    <td style="text-align: center;"><strong>Sample 1: Target Object: microphone</strong></td>
-    <td style="text-align: center;"><strong>Sample 2: Target Object: pink toy microwave</strong></td>
-    <td style="text-align: center;"><strong>Sample 3: Target Object: Mercedes-Benz car</strong></td>
+    <td style="text-align: center;"><strong>Sample 1 Source</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 1 Target<br/>Object: microphone</strong></td>
+    <td style="text-align: center; padding-left: 15px;"><strong>Sample 2 Source</strong></td>
+    <td style="text-align: center;"><strong>Sample 2 Target<br/>Object: pink toy microwave</strong></td>
   </tr>
   <tr>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="border-right: 3px solid #ccc; padding-right: 15px;">
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+    <td style="padding-left: 15px;">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 3 Source</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 3 Target<br/>Object: Mercedes-Benz car</strong></td>
+    <td style="text-align: center; padding-left: 15px;"><strong>Sample 4 Source</strong></td>
+    <td style="text-align: center;"><strong>Sample 4 Target<br/>Object: wooden table</strong></td>
+  </tr>
+  <tr>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_motorvehicleroad_25261/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="border-right: 3px solid #ccc; padding-right: 15px;">
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_motorvehicleroad_25261/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><strong>Sample 4: Target Object: wooden table</strong></td>
-    <td style="text-align: center;"><strong>Sample 5: Target Object: train</strong></td>
-    <td style="text-align: center;"><strong>Sample 6: Target Object: keyboard</strong></td>
-  </tr>
-  <tr>
+    <td style="padding-left: 15px;">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_powertool_23510/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_powertool_23510/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Sample 5 Source</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 5 Target<br/>Object: train</strong></td>
+    <td style="text-align: center; padding-left: 15px;"><strong>Sample 6 Source</strong></td>
+    <td style="text-align: center;"><strong>Sample 6 Target<br/>Object: keyboard</strong></td>
+  </tr>
+  <tr>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_railtransport_46426/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td style="border-right: 3px solid #ccc; padding-right: 15px;">
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_railtransport_46426/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
+    <td style="padding-left: 15px;">
+      <video width="240" height="180" controls>
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_typing_27039/video_audio_src.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
     <td>
-      <video width="320" height="240" controls>
+      <video width="240" height="180" controls>
         <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_typing_27039/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
@@ -115,6 +207,14 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 </table>
 
 # Section 3:
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <video width="320" height="240" controls>
+    <source src="https://wx83.github.io/AVEdit_Subjective/versionB/edit_result/-fDcLLON3zs/save/video_audio_src.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 Target Object is 
 <table>
   <tr>
@@ -188,6 +288,14 @@ Target Object is
 </table>
 
 # Section 4:
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <video width="320" height="240" controls>
+    <source src="https://wx83.github.io/AVEdit_Subjective/versionB/edit_result/audioset_balanced_train_3L8swdSZj5w_10.000/save/video_audio_src.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1: Target Object: plow</strong></td>
@@ -260,6 +368,14 @@ Target Object is
 </table>
 
 # Section 5
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <video width="320" height="240" controls>
+    <source src="https://wx83.github.io/AVEdit_Subjective/versionB/edit_result/kling_aircraft_22329/save/video_audio_src.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1: Target Object: airplane</strong></td>
@@ -332,6 +448,14 @@ Target Object is
 </table>
 
 # Section 6:
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <video width="320" height="240" controls>
+    <source src="https://wx83.github.io/AVEdit_Subjective/versionB/edit_result/kling_mechanisms_9147/save/video_audio_src.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1: Target Object: bulldozer</strong></td>
