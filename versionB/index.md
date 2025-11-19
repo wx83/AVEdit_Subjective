@@ -17,25 +17,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/-24qhP-qEQ0/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/-24qhP-qEQ0/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="border-right: 3px solid #ccc; padding-right: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/-24qhP-qEQ0/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/-24qhP-qEQ0/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_3L8swdSZj5w_10.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_3L8swdSZj5w_10.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_3L8swdSZj5w_10.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_3L8swdSZj5w_10.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -49,25 +49,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_7GvM1ZhcbdY_10.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_7GvM1ZhcbdY_10.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="border-right: 3px solid #ccc; padding-right: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_7GvM1ZhcbdY_10.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_7GvM1ZhcbdY_10.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_98UFwLGP2dM_30.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_98UFwLGP2dM_30.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_98UFwLGP2dM_30.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_98UFwLGP2dM_30.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -81,25 +81,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_apkXWaneA9E_390.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_apkXWaneA9E_390.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="border-right: 3px solid #ccc; padding-right: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_balanced_train_apkXWaneA9E_390.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_apkXWaneA9E_390.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_mechanisms_9204/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_Bkq1PAyGuZY_8.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_mechanisms_9204/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_balanced_train_Bkq1PAyGuZY_8.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -117,25 +117,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="border-right: 3px solid #ccc; padding-right: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/audioset_eval_1p9rsIR1ezk_30.000/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_mechanisms_9204/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/audioset_eval_CTFoGCpCScY_30.000/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_mechanisms_9204/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -149,25 +149,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_motorvehicleroad_25261/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_motorvehicleroad_25261/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="border-right: 3px solid #ccc; padding-right: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_motorvehicleroad_25261/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_motorvehicleroad_25261/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_powertool_23510/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_powertool_23510/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_powertool_23510/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_powertool_23510/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -181,25 +181,25 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   <tr>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_railtransport_46426/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_railtransport_46426/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="border-right: 3px solid #ccc; padding-right: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_railtransport_46426/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_railtransport_46426/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td style="padding-left: 15px;">
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_typing_27039/video_audio_src.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_typing_27039/video_audio_src.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
     <td>
       <video width="240" height="180" controls>
-        <source src="https://wx83.github.io/AVEdit_Subjective/versionA/dataset_pair/kling_typing_27039/video_audio_target.mp4" type="video/mp4">
+        <source src="https://wx83.github.io/AVEdit_Subjective/versionB/dataset_pair/kling_typing_27039/video_audio_target.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
@@ -215,7 +215,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   </video>
 </div>
 
-Target Object is 
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1: Target Object: alarm clock</strong></td>
