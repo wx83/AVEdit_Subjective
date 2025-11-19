@@ -74,9 +74,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Sample 5 Source</strong></td>
-    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 5 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 5 Target<br/>Object: engine</strong></td>
     <td style="text-align: center; padding-left: 15px;"><strong>Sample 6 Source</strong></td>
-    <td style="text-align: center;"><strong>Sample 6 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center;"><strong>Sample 6 Target<br/>Object: computer keyboard</strong></td>
   </tr>
   <tr>
     <td>
@@ -110,9 +110,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
 <table>
   <tr>
     <td style="text-align: center;"><strong>Sample 1 Source</strong></td>
-    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 1 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 1 Target<br/>Object: violin</strong></td>
     <td style="text-align: center; padding-left: 15px;"><strong>Sample 2 Source</strong></td>
-    <td style="text-align: center;"><strong>Sample 2 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center;"><strong>Sample 2 Target<br/>Object: machine</strong></td>
   </tr>
   <tr>
     <td>
@@ -142,9 +142,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSe3W79IJcW1e_yBV-7RYQalWXhzs2Kgds1rhy3g
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Sample 3 Source</strong></td>
-    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 3 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center; border-right: 3px solid #ccc; padding-right: 15px;"><strong>Sample 3 Target<br/>Object: cat</strong></td>
     <td style="text-align: center; padding-left: 15px;"><strong>Sample 4 Source</strong></td>
-    <td style="text-align: center;"><strong>Sample 4 Target<br/>Object: [object]</strong></td>
+    <td style="text-align: center;"><strong>Sample 4 Target<br/>Object: human</strong></td>
   </tr>
   <tr>
     <td>
